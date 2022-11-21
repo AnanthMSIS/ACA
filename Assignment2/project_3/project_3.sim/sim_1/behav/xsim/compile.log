@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ACA Lab/ACA_Assignment_1/project_3/project_3.srcs/sources_1/new/priorityEncoder_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priorityEncoder_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ACA Lab/ACA_Assignment_1/project_3/project_3.srcs/sources_1/new/priorityEncoder_4bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priorityEncoder_4bit_tb
