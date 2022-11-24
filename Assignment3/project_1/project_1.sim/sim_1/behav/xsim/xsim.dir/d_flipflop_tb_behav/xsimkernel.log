@@ -1,0 +1,7 @@
+Running: xsim.dir/d_flipflop_tb_behav/xsimk.exe -simmode gui -wdb d_flipflop_tb_behav.wdb -simrunnum 0 -socket 53288
+Design successfully loaded
+Design Loading Memory Usage: 6044 KB (Peak: 6044 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 6672 KB (Peak: 6672 KB)
+Simulation CPU Usage: 15 ms
