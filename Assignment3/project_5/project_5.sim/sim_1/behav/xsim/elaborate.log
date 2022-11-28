@@ -1,0 +1,13 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto aeb7196a865e47fb89730090c0c0e57a --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot seq_detector_moore_tb_behav xil_defaultlib.seq_detector_moore_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.seq_detector_moore
+Compiling module xil_defaultlib.seq_detector_moore_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot seq_detector_moore_tb_behav
